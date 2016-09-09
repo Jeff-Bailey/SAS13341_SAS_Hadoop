@@ -1,4 +1,4 @@
-Getting Started With SAS and Hadoop
+Getting Started With SAS and Hadoop - Jeff Bailey
 
 Session ID: SAS13341
 
